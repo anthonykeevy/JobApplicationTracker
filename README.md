@@ -15,7 +15,7 @@ cd JobApplicationTracker
 python -m venv .venv
 # On Windows
 .venv\Scripts\activate
-# On Unix or MacOS
+# On Unix or macOS.
 source .venv/bin/activate
 ```
 
